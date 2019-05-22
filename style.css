@@ -1,5 +1,5 @@
 #logo{
-    width: 300px;
+    width: 500px;
 }
 
 #pres-main{
@@ -16,4 +16,8 @@ h4{
 
 .badge-warning{
     font-size: 1.1em;
+}
+
+#logo-container {
+    padding: 25px 0;
 }
