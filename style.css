@@ -1,7 +1,11 @@
 #logo{
-    width: 300px;
+    width: 500px;
 }
 
 #pres-main{
     margin-bottom: 50px;
+}
+
+#logo-container {
+    padding: 50px 0;
 }
