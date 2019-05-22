@@ -14,10 +14,18 @@ h4{
     margin-top: 20px;
 }
 
-.badge-warning{
+.badge{
     font-size: 1.1em;
 }
 
 #logo-container {
     padding: 25px 0;
+}
+
+#modeAltTitle{
+    margin-top: 20px;
+}
+
+body{
+    padding-bottom: 30px;
 }
