@@ -29,3 +29,14 @@ h4{
 body{
     padding-bottom: 30px;
 }
+
+#main_container {
+    overflow-y: auto;
+}
+
+footer {
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    background-color: rgb(200, 200, 200);
+}

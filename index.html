@@ -23,7 +23,7 @@
 </head>
 
 <body>
-    <div class="container">
+    <div id="main_container" class="container">
 
         <nav class="nav nav-pills flex-column flex-sm-row" role="tablist">
             <a data-toggle="tab" class="flex-sm-fill text-sm-center nav-link active" href="#presentation"
@@ -166,7 +166,14 @@
         </div>
     </div>
 
+    <footer>
+        <div class="container">
+            MON FOOTER
+        </div>
+    </footer>
+
     <script>
+        $('#main_container').height($('body').height() - $('.footer').height());
     </script>
 </body>
 
