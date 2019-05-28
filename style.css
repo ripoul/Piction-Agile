@@ -38,7 +38,7 @@ body{
     padding-bottom: 15px;
 }
 
-footer {
+footer.main-footer {
     position: fixed;
     bottom: 0px;
     width: 100%;
