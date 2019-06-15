@@ -17,17 +17,6 @@
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/ripoul/github-insights/issues).
 
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-## 📝 License
-
-Copyright © 2019 [Jules](https://github.com/ripoul).<br />
-This project is [Apache License](http://www.apache.org/licenses/) licensed.
-
-## Contributors
-
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -37,3 +26,12 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+## 📝 License
+
+Copyright © 2019 [Jules](https://github.com/ripoul).<br />
+This project is [Apache License](http://www.apache.org/licenses/) licensed.
