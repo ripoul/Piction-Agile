@@ -5,7 +5,6 @@
     <img alt="License: Apache License" src="https://img.shields.io/badge/License-Apache License-yellow.svg" target="_blank" />
   </a>
 </p>
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 
 > Our serious game website !
 
