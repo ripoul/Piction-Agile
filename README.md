@@ -1,10 +1,8 @@
 <h1 align="center">Welcome to Piction-Agile 👋</h1>
-<p>
-  <img src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
-  <a href="http://www.apache.org/licenses/">
-    <img alt="License: Apache License" src="https://img.shields.io/badge/License-Apache License-yellow.svg" target="_blank" />
-  </a>
-</p>
+
+![version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
+![apache](https://img.shields.io/badge/License-Apache%20License-yellow.svg)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 
 > Our serious game website !
 
