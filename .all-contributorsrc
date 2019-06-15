@@ -26,6 +26,15 @@
         "design",
         "code"
       ]
+    },
+    {
+      "login": "lucasmart",
+      "name": "Lucas Martineau",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/17832466?v=4",
+      "profile": "https://github.com/lucasmart",
+      "contributions": [
+        "design"
+      ]
     }
   ],
   "contributorsPerLine": 7,
