@@ -1,12 +1,25 @@
-# Piction-Agile
+<h1 align="center">Welcome to Piction-Agile 👋</h1>
+<p>
+  <img src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+  <a href="http://www.apache.org/licenses/">
+    <img alt="License: Apache License" src="https://img.shields.io/badge/License-Apache License-yellow.svg" target="_blank" />
+  </a>
+</p>
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 
-Our serious game website
+> Our serious game website !
 
+### 🏠 [Homepage](https://ripoul.github.io/Piction-Agile/)
 
-You can see the website here : [https://ripoul.github.io/Piction-Agile/](https://ripoul.github.io/Piction-Agile/)
+## Author
 
-## Contributors
+👤 **Jules**
+
+* Github: [@ripoul](https://github.com/ripoul)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/ripoul/github-insights/issues).
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
@@ -17,3 +30,13 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+## 📝 License
+
+Copyright © 2019 [Jules](https://github.com/ripoul).<br />
+This project is [Apache License](http://www.apache.org/licenses/) licensed.
