@@ -1,8 +1,8 @@
-<h1 align="center">Welcome to Piction-Agile 👋</h1>
+# Welcome to Piction-Agile 👋
 
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
 ![apache](https://img.shields.io/badge/License-Apache%20License-yellow.svg)
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 
 > Our serious game website !
 
