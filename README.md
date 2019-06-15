@@ -1,4 +1,5 @@
 # Welcome to Piction-Agile 👋
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
 ![apache](https://img.shields.io/badge/License-Apache%20License-yellow.svg)
 
@@ -24,3 +25,15 @@ Give a ⭐️ if this project helped you!
 
 Copyright © 2019 [Jules](https://github.com/ripoul).<br />
 This project is [Apache License](http://www.apache.org/licenses/) licensed.
+
+## Contributors
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+<table><tr><td align="center"><a href="https://github.com/ripoul"><img src="https://avatars3.githubusercontent.com/u/23215341?v=4" width="100px;" alt="Jules LE BRIS"/><br /><sub><b>Jules LE BRIS</b></sub></a><br /><a href="https://github.com/ripoul/Piction-Agile/issues?q=author%3Aripoul" title="Bug reports">🐛</a> <a href="#design-ripoul" title="Design">🎨</a> <a href="https://github.com/ripoul/Piction-Agile/commits?author=ripoul" title="Code">💻</a> <a href="#maintenance-ripoul" title="Maintenance">🚧</a></td></tr></table>
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
